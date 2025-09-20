@@ -26,4 +26,4 @@ function Contador() {
    )
 }
 
-export default Sobre
+export default Sobre;
